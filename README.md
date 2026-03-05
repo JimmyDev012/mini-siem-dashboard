@@ -2,7 +2,7 @@
 
 A production-style Security Operations Center (SOC) dashboard built with React. Designed to demonstrate real SOC analyst workflows, log analysis, and threat detection skills.
 
-![Screenshot](https://via.placeholder.com/800x450/010409/58a6ff?text=Mini+SIEM+Dashboard)
+![Screenshot](screenshot.png)
 
 ---
 
